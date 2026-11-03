@@ -1,7 +1,7 @@
 # Paranoid Dead
 ## Indice
 
-## Todos os Personagens
+## Todos os Personagens do Jogo
 - Clementine; 
 - Alex; 
 - Trevor;
